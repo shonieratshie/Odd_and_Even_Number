@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\Squire Calculator\Squire Calculator\bin\Debug\Squire Calculator.exe.config
+C:\Users\Admin\Documents\GitHub\Squire Calculator\Squire Calculator\bin\Debug\Squire Calculator.exe
+C:\Users\Admin\Documents\GitHub\Squire Calculator\Squire Calculator\bin\Debug\Squire Calculator.pdb
+C:\Users\Admin\Documents\GitHub\Squire Calculator\Squire Calculator\obj\Debug\Squire Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Squire Calculator\Squire Calculator\obj\Debug\Squire Calculator.exe
+C:\Users\Admin\Documents\GitHub\Squire Calculator\Squire Calculator\obj\Debug\Squire Calculator.pdb
